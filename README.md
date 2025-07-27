@@ -75,6 +75,5 @@
 ![Snake Graph](https://github.com/SaurabhBarde-007/SaurabhBarde-007/blob/main/github-user-contribution.svg)
 
 <img src="https://github.com/SaurabhBarde-007/SaurabhBarde-007/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
-<img align="center" width=1000 src="./assets/flames.gif"/>
 
 [![](https://visitcount.itsvg.in/api?id=Jagdish2004&label=Profile%20Views&color=6A5ACD&icon=5&pretty=true)](https://visitcount.itsvg.in)
