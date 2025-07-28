@@ -72,8 +72,7 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![Snake Graph](https://github.com/SaurabhBarde-007/SaurabhBarde-007/blob/main/github-user-contribution.svg)
-
-<img src="https://github.com/SaurabhBarde-007/SaurabhBarde-007/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
+![Snake Graph](https://github.com/Jagdish2004/jagdish2004/blob/main/img/img1.svg)
+<img src="https://github.com/Jagdish2004/jagdish2004/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
 
 [![](https://visitcount.itsvg.in/api?id=Jagdish2004&label=Profile%20Views&color=6A5ACD&icon=5&pretty=true)](https://visitcount.itsvg.in)
